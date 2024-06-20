@@ -1,3 +1,5 @@
+#![feature(restricted_std)]
+
 //! A `malloc`-ed box pointer type, brought to you by
 //! [@NikolaiVazquez](https://twitter.com/NikolaiVazquez)!
 //!
